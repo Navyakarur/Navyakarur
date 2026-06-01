@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navyakarur
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...c language 
+- 🌱 I’m currently learning ... java DSA
 - 💞️ I’m looking to collaborate on ... coding
 - 📫 How to reach me ...https://github.com/Navyakarur/Navyakarur.git
   
